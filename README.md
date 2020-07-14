@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-I'm yeoseon !
-
+[I'm yeoseon !](https://github.com/yeoseon/who-i-am/tree/master/Resume) :point_left: Click!
 <!--
 **yeoseon/yeoseon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
