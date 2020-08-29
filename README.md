@@ -2,8 +2,8 @@
 
 [I'm yeoseon !](https://github.com/yeoseon/who-i-am/tree/master/Resume) :point_left: Click!
 
-# 좋은 개발자로 성장하기 위해 매일 공부중입니다.  
-# 함께 공부해요 :point_right: devyyskr@gmail.com
+### 좋은 개발자로 성장하기 위해 매일 공부중입니다.  
+### 함께 공부해요 :point_right: devyyskr@gmail.com
 <!--
 **yeoseon/yeoseon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
