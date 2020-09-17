@@ -24,5 +24,4 @@
 For more information, Click :point_right: [Resume](https://github.com/yeoseon/who-i-am/tree/master/Resume)  
 
 
-## 📫  My Links  
 [![Gmail Badge](https://img.shields.io/badge/-devyyskr@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:devyyskr@gmail.com)](mailto:devyyskr@gmail.com) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=%23ffffff&link=https://www.linkedin.com/in/yyskr/)](https://www.linkedin.com/in/yyskr/) [![Blog](https://img.shields.io/badge/-Blog-%232e2d2d?style=flat&logo=ghost&logoColor=%23ffffff&link=https://yeoseon.kr)](https://yeoseon.kr/)
