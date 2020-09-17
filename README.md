@@ -14,7 +14,7 @@
 저에 대해 더 궁금하시다면 [이 곳](https://github.com/yeoseon/who-i-am/tree/master/Resume) :point_left: 을 클릭해주세요. 
 
 ---
-## Hi there 👋 I'm Yun Yeoseon  
+## Hi there 👋 I'm Yun Yeoseon.
 
 ### Backend Developer in Seoul, Korea.  
 
