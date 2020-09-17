@@ -1,7 +1,5 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyeoseon%2F&count_bg=%238C96F1&title_bg=%23C996EF&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-📫    My Links : [![Gmail Badge](https://img.shields.io/badge/-devyyskr@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:devyyskr@gmail.com)](mailto:devyyskr@gmail.com) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=%23ffffff&link=https://www.linkedin.com/in/yyskr/)](https://www.linkedin.com/in/yyskr/) [![Blog](https://img.shields.io/badge/-Blog-%232e2d2d?style=flat&logo=ghost&logoColor=%23ffffff&link=https://yeoseon.kr)](https://yeoseon.kr/)
-
 ## 👋 안녕하세요. 저는 윤여선입니다.  
 
 ### 서울에서 백엔드 개발자로 살아가고 있습니다.  
@@ -23,4 +21,8 @@
 * Studying recently : `Basic` for developer of `high quality`  
 * I'm `looking for a job`.  
 
-For more information, Click :point_right: [Resume](https://github.com/yeoseon/who-i-am/tree/master/Resume) 
+For more information, Click :point_right: [Resume](https://github.com/yeoseon/who-i-am/tree/master/Resume)  
+
+
+## 📫  My Links  
+[![Gmail Badge](https://img.shields.io/badge/-devyyskr@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:devyyskr@gmail.com)](mailto:devyyskr@gmail.com) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=%23ffffff&link=https://www.linkedin.com/in/yyskr/)](https://www.linkedin.com/in/yyskr/) [![Blog](https://img.shields.io/badge/-Blog-%232e2d2d?style=flat&logo=ghost&logoColor=%23ffffff&link=https://yeoseon.kr)](https://yeoseon.kr/)
