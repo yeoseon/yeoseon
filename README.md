@@ -1,18 +1,26 @@
-### Hi there 👋
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyeoseon%2F&count_bg=%238C96F1&title_bg=%23C996EF&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-[I'm yeoseon !](https://github.com/yeoseon/who-i-am/tree/master/Resume) :point_left: Click!
+📫    My Links : [![Gmail Badge](https://img.shields.io/badge/-devyyskr@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:devyyskr@gmail.com)](mailto:devyyskr@gmail.com) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=%23ffffff&link=https://www.linkedin.com/in/yyskr/)](https://www.linkedin.com/in/yyskr/) [![Blog](https://img.shields.io/badge/-Blog-%232e2d2d?style=flat&logo=ghost&logoColor=%23ffffff&link=https://yeoseon.kr)](https://yeoseon.kr/)
 
-<!--
-**yeoseon/yeoseon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 안녕하세요. 저는 윤여선입니다.  
 
-Here are some ideas to get you started:
+### 서울에서 백엔드 개발자로 살아가고 있습니다.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* `Java` 와 `Spring Framework` 를 주로 사용하고 있습니다.  
+* `좋은 소프트웨어`와 `커뮤니케이션`에 대한 관심이 많습니다.  
+* 요즘은 `기본`부터 다시 공부하며 보다 `탄탄한 개발자`가 되기 위해 노력하고 있습니다.    
+* 좋은 조직으로 가기 위해 `구직` 중에 있습니다.  
+
+저에 대해 더 궁금하시다면 [이 곳](https://github.com/yeoseon/who-i-am/tree/master/Resume) :point_left: 을 클릭해주세요. 
+
+---
+## Hi there 👋 I'm Yun Yeoseon  
+
+### Backend Developer in Seoul, Korea.  
+
+* Using mainly : `Java`, `Spring Framework`
+* Interesting recently : `Better software`, `Communication skills`  
+* Studying recently : `Basic` for developer of `high quality`  
+* I'm `looking for a job`.  
+
+For more information, Click :point_right: [Resume](https://github.com/yeoseon/who-i-am/tree/master/Resume) 
